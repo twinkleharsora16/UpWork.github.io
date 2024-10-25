@@ -1,0 +1,34 @@
+body
+   {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+    }
+ .Viewdetails 
+    {
+	 box-sizing: border-box;
+     background: rgba(0,0,0,.5);
+    }
+ .Viewdetails input[type="submit"]
+	{
+	border: none;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+	background: #ff267e;
+	cursor: pointer;
+	border-radius: 20px;
+	}
+ .Viewdetails input[type="submit"]:hover
+	{
+	   background: #efed40;
+	   color: #262626;
+	 }
+ .Viewdetails a
+	 {
+	  color: #fff;
+	  font-size: 14px;
+	  font-weight: bold;
+	  text-decoration: none;
+	  }
